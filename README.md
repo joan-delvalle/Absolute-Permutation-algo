@@ -1,1 +1,1 @@
-# Absolute-Permutation-algo
+# Absolute-Permutation-algo It tries to create a permutation of numbers from 1 to n such that the absolute difference between each number’s position and its value is exactly k. The function absolutePermutation (currently empty) will include the logic to either build and return that valid sequence or output -1 if no such arrangement is possible.
